@@ -186,31 +186,6 @@
           "_params": {}
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
-            "facebook": "https://www.facebook.com/aman.rana.509511",
-            "twitter": "amanrana754@gmail.com",
-            "google": "",
-            "youtube": "",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/comments-bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-k"
-        },
-        {
           "_params": {
             "token": "1979174853.727bfe1.2305748658904554a9f0ef1484add342",
             "showTitle": true,
