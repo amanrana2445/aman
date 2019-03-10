@@ -21,7 +21,7 @@
         "display5Size": "2.5",
         "display7Font": "Rubik",
         "display7Size": 1,
-        "display4Font": "Pacifico",
+        "display4Font": "Dancing Script",
         "display4Size": "2",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -65,7 +65,7 @@
     "siteUrl": "undefined",
     "screenshot": "screenshot.png",
     "publishType": "local",
-    "publishPath": "file:///C:/Users/amanr/OneDrive/Documents/GitHub/aman"
+    "publishPath": "file:///C:/Users/amanr/Desktop/aman-master"
   },
   "pages": {
     "index.html": {
@@ -215,9 +215,9 @@
             "overlayOpacity": 0.6
           },
           "title": "<b>Instagram Feed</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-1\" href=\"#\" data-max-id=\"1869056967077471272_1979174853\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1869056967077471272_1979174853\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-1",
-          "display4": "display-1",
+          "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
             "Extension"
